@@ -1,5 +1,5 @@
 # DisableNPCPolices
-Script for disabling polices fivem (I used it for using ox inventory qbcore)
+Script for disabling polices fivem
 
 ## 🖱 Update
 Cops may spawn, but they won't spawn or attack you!
